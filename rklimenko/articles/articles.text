@@ -1,0 +1,73 @@
+<h3>RABBITMQ</h3>
+<a href="http://accelazh.github.io/messaging/Intercept-RabbitMQ-Message-In-Openstack">http://accelazh.github.io/messaging/Intercept-RabbitMQ-Message-In-Openstack</a>
+
+<a href="https://www.rabbitmq.com/blog/2014/04/14/finding-bottlenecks-with-rabbitmq-3-3/">https://www.rabbitmq.com/blog/2014/04/14/finding-bottlenecks-with-rabbitmq-3-3/</a>
+
+<hr />
+
+<h2>DRBD</h2>
+<a href="http://web.theurbanpenguin.com/drbd-pacemaker-ha-cluster-ubuntu-16-04/">drbd-pacemaker-ha-cluster-ubuntu</a>
+
+<a href="http://www.tokiwinter.com/clustering-with-drbd-corosync-and-pacemaker/">http://www.tokiwinter.com/clustering-with-drbd-corosync-and-pacemaker/</a>
+
+<hr />
+
+<h2>NEUTRON</h2>
+https://pinrojas.com/2014/07/29/theres-real-magic-behind-openstack-neutron/
+
+&nbsp;
+
+<hr />
+
+<h2>HAPROXY</h2>
+<a href="https://serversforhackers.com/using-ssl-certificates-with-haproxy">https://serversforhackers.com/using-ssl-certificates-with-haproxy</a>
+
+&nbsp;
+
+<hr />
+
+<h2>PACEMAKER</h2>
+<a href="https://raymii.org/s/tutorials/Corosync_Pacemaker_-_Execute_a_script_on_failover.html">https://raymii.org/s/tutorials/Corosync_Pacemaker_-_Execute_a_script_on_failover.html</a>
+
+&nbsp;
+
+<hr />
+
+<h2>FUEL/PUPPET</h2>
+<a href="https://github.com/openstack/fuel-noop-fixtures/tree/master/hiera">https://github.com/openstack/fuel-noop-fixtures/tree/master/hiera</a>
+
+<a href="https://ma.ttias.be/check-value-present-array-puppet/">check-value-present-array-puppet</a>
+
+<a href="http://stackoverflow.com/questions/12076976/puppet-iteration-string-array">http://stackoverflow.com/questions/12076976/puppet-iteration-string-array</a>
+
+<a href="https://docs.mirantis.com/openstack/fuel/fuel-master/release-notes/update-product/update-master-9-2.html#update-master-9-2">https://docs.mirantis.com/openstack/fuel/fuel-master/release-notes/update-product/update-master-9-2.html#update-master-9-2</a>
+
+<hr />
+
+<h2>RALLY</h2>
+<a href="https://rally.readthedocs.io/en/0.0.3/plugins.html">https://rally.readthedocs.io/en/0.0.3/plugins.html</a>
+
+<hr />
+
+<h2>CEPH</h2>
+Benchmarking Ceph:
+<ol>
+ 	<li>telekom - fio <a href="https://telekomcloud.github.io/ceph/2014/02/26/ceph-performance-analysis_fio_rbd.html">https://telekomcloud.github.io/ceph/2014/02/26/ceph-performance-analysis_fio_rbd.html</a></li>
+ 	<li>ceph tracker - <a href="http://tracker.ceph.com/projects/ceph/wiki/Benchmark_Ceph_Cluster_Performance">http://tracker.ceph.com/projects/ceph/wiki/Benchmark_Ceph_Cluster_Performance</a></li>
+</ol>
+
+<hr />
+
+<h2>HARDWARE</h2>
+SAS9207-8i raid
+
+<a href="http://backupguy.com/how-i-enable-raid-on-the-lsi-sas-9207-8i/">http://backupguy.com/how-i-enable-raid-on-the-lsi-sas-9207-8i/</a>
+
+<hr />
+
+<h2>MONITORING</h2>
+<a href="https://blog.zhaw.ch/icclab/monitoring-an-openstack-deployment-with-prometheus-and-grafana/">monitoring-an-openstack-deployment-with-prometheus-and-grafana</a>
+
+<hr />
+
+&nbsp;
